@@ -18,6 +18,7 @@ nav_order: 1   # Controls the order in the navigation menu
 - UC Berkeley - Certification in Applied Data Science
 - UC Berkeley - Certification in Engineering and Business for Sustinability
 
+This picture is of me and Dr. Shah at UC Berkeley after completing the course, International Poverty and Economic Development.
 ![Me and Dr. Shah](/Images/MDP.jpeg)
 
 **Academic and Career Interests**
@@ -26,8 +27,17 @@ Ever since high school I was interested in environmental sustinability and thus 
 **Personal Interests and Hobbies**
 I am a physically active person. I love sports and physical activities such as: hiking, climbing, surfing, football (soccer). I am also love travelling/volunteering around the world, thus far I completed many projects including; Conservation in Costa Rica, Conservation in Madagascar, Conservation in Ecuador, Construction in Nepal, Community Development in Mongolia, and Community Development in South Africa.
 
+This is my climbing in Berkeley.
 ![Climbing](/Images/Climbing.JPG)
+
+This is my on the IM Football club with Goldman Goal Getters, we finished the season in second place.
 ![Football](/Images/Football.jpg)
+
+This is me at the YMCA gym.
 ![Gym](/Images/Gym.JPG)
+
+This is me at the San Jose Sharks hockey game.
 ![Sport](/Images/Sport.jpeg)
+
+This is me at the Taj Mahal.
 ![Taj Mahal](/Images/India.jpeg)
