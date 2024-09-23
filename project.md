@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Project 1"
+title: Project 1
+nav_order: 2  # This will appear after Home in the navigation
 ---
 
 ## **Descriptions of Parts**

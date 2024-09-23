@@ -1,11 +1,10 @@
-theme: jekyll-theme-cayman
-title: About Maksymilian Kwapiński
+remote_theme: pmarsceill/just-the-docs
+title: Maksymilian Kwapiński's Website
 description: Academic and Interests Background
 
-# Add custom header navigation
-header_links:
-  - title: "Home"
-    url: "/"
-  - title: "Project 1"
-    url: "/project"
+# Enable Just the Docs navigation
+just_the_docs:
+  show_nav: true     # Enables the sidebar navigation automatically
+  nav_order: 1       # Sets order of navigation items
+  search_enabled: true  # Enable search in the navigation
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Home"
+title: Home
+nav_order: 1   # Controls the order in the navigation menu
 ---
 
 **General Information**
