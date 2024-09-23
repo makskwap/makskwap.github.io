@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Maksymilian Kwapiński"
+title: "Home"
 ---
 
 **General Information**
-Name: Maksymilian Kwapiński
-Nationality: Polish
-Residency: Berkeley, California
-Age: 25
+- Name: Maksymilian Kwapiński -
+- Nationality: Polish -
+- Residency: Berkeley, California -
+- Age: 25 -
 
 **Educational History**
 TASIS England - IB Diploma
