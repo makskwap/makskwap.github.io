@@ -5,18 +5,18 @@ nav_order: 1   # Controls the order in the navigation menu
 ---
 
 **General Information**
-- Name: Maksymilian Kwapiński -
-- Nationality: Polish -
-- Residency: Berkeley, California -
-- Age: 25 -
+- Name: Maksymilian Kwapiński
+- Nationality: Polish
+- Residency: Berkeley, California
+- Age: 25
 
 **Educational History**
-TASIS England - IB Diploma
-Leiden University - BSc in International Relations and Organizations
-Leiden University - Minor in Economic and Ecological Perspectives on the Sustinable Environment
-UC Berkeley - MSc in Development Practice
-UC Berkeley - Certification in Applied Data Science
-UC Berkeley - Certification in Engineering and Business for Sustinability
+- TASIS England - IB Diploma
+- Leiden University - BSc in International Relations and Organizations
+- Leiden University - Minor in Economic and Ecological Perspectives on the Sustinable Environment
+- UC Berkeley - MSc in Development Practice
+- UC Berkeley - Certification in Applied Data Science
+- UC Berkeley - Certification in Engineering and Business for Sustinability
 
 ![Me and Dr. Shah](/Images/MDP.jpeg)
 
