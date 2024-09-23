@@ -2,4 +2,10 @@ theme: jekyll-theme-cayman
 title: About Maksymilian Kwapiński
 description: Academic and Interests Background
 
+# Add custom header navigation
+header_links:
+  - title: "Home"
+    url: "/"
+  - title: "Project 1"
+    url: "/project.md"
 
