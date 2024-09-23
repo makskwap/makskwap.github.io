@@ -1,4 +1,9 @@
-# **Project-1 Description**
+---
+layout: default
+title: "Project 1"
+---
+
+## **Descriptions of Parts**
 This document outlines the tasks for Project 1 of CSS.
 
 **Part 1: Repository Creation**

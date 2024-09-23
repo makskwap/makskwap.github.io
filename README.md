@@ -1,4 +1,7 @@
-# Overview of Maksymilian Kwapiński
+---
+layout: default
+title: "Maksymilian Kwapiński"
+---
 
 **General Information**
 Name: Maksymilian Kwapiński
