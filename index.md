@@ -27,13 +27,13 @@ Ever since high school I was interested in environmental sustinability and thus 
 **Personal Interests and Hobbies**
 I am a physically active person. I love sports and physical activities such as: hiking, climbing, surfing, football (soccer). I am also love travelling/volunteering around the world, thus far I completed many projects including; Conservation in Costa Rica, Conservation in Madagascar, Conservation in Ecuador, Construction in Nepal, Community Development in Mongolia, and Community Development in South Africa.
 
-This is my climbing in Berkeley.
+This is me climbing in Berkeley.
 ![Climbing](/Images/Climbing.JPG)
 
-This is my on the IM Football club with Goldman Goal Getters, we finished the season in second place.
+This is me on the IM Football club with Goldman Goal Getters, we finished the season in second place.
 ![Football](/Images/Football.jpg)
 
-This is me at the YMCA gym.
+This is me at my local gym in Poland.
 ![Gym](/Images/Gym.JPG)
 
 This is me at the San Jose Sharks hockey game.
