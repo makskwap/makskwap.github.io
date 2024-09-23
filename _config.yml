@@ -7,5 +7,5 @@ header_links:
   - title: "Home"
     url: "/"
   - title: "Project 1"
-    url: "/project.md"
+    url: "/project"
 
